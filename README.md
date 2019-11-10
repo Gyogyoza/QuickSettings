@@ -1,1 +1,1 @@
-# QuickSettings
+# Quick Settings
